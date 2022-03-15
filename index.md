@@ -15,13 +15,13 @@ Ingeniero Informático
 
 Analista del departamento de Ingeniería de la empresa pública Cartográfica de Canarias S.A. (GRAFCAN)
 
-### Especialista en
+## Especialista en
 
 Sistemas de información geográfica (GIS) y en el uso de herramientas libres: 
-*GNU/Linux*, *Python*, *GeoDjango*, *QGIS*, *PostgreSQL-PostGIS* y **Pandas, Numpy, Matplotlib, Jupyter notebook** 
+*GNU/Linux*, *Python*, *GeoDjango*, *QGIS*, *PostgreSQL-PostGIS*, *Pandas, Numpy, Matplotlib, Jupyter notebook* 
 o propietarias: *ArcGIS de ESRI y FME*.
 
-### Intereses de investigación
+## Intereses de investigación
 
 __CI/CD, TDD, UX/UI, Desarrollo Android y Python__.
 
@@ -47,31 +47,25 @@ __Ingeniero Informático, Cartográfica de Canarias S.A.__, Santa Cruz de Teneri
 ## Últimos proyectos
 
 `2021`
-__Plan de Recuperación, Transformación y Resiliencia__, https://www.planderecuperaciondecanarias.es/
-
+__Plan de Recuperación, Transformación y Resiliencia__, [https://www.planderecuperaciondecanarias.es/](https://www.planderecuperaciondecanarias.es/)
 - Python, GeoDjango, DRF, PostgreSQL-PostGIS, Redis, Celery.
 
 `2020`
-__Sistema de predicción del oleaje. Garachico__, https://oleaje.grafcan.es/
-
+__Sistema de predicción del oleaje. Garachico__, [https://oleaje.grafcan.es/](https://oleaje.grafcan.es/)
 - Backend: Python, GeoDjango, DRF, PostgreSQL-PostGIS, MATLAB, Apache Airflow, Celery.
 - Frontend: Vuejs
 
 `2020`
-__Sistema de Observación Meteorológica de Canarias__, https://sensores.grafcan.es/
-
+__Sistema de Observación Meteorológica de Canarias__, [https://sensores.grafcan.es/]([https://sensores.grafcan.es/)
 - Django, PostgreSQL, DRF.
 
 `2018`
-__Portal de Datos Abiertos del Sistema de información Territorial de Canarias (SITCAN)__, https://opendata.sitcan.es/
-
+__Portal de Datos Abiertos del Sistema de información Territorial de Canarias (SITCAN)__, [https://opendata.sitcan.es/](https://opendata.sitcan.es/)
 - Ckan, Python, Flask, PostgreSQL
 
 `2018`
-__Aplicación Android Callejero de Canarias__, https://play.google.com/store/apps/details?id=com.grafcan.ide.search&gl=ES
-
+__Aplicación Android Callejero de Canarias__, [Enlace Play Store](https://play.google.com/store/apps/details?id=com.grafcan.ide.search&gl=ES)
 - Java, SQLite, Retrofit.
 
 <!-- ### Footer
-
 Last updated: March 2022 -->
