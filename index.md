@@ -28,9 +28,6 @@ CI/CD, TDD, UX/UI y un largo etc.
 `1992-1998`
 __Ingeniería Informática, Universidad de La Laguna.__
 
-`2017`
-__Full Stack Development, freeCodeCamp__
-
 `2019`
 __Experto en desarrollo GIS, Esri España__
 
