@@ -8,6 +8,7 @@ Ingeniero Informático
 <div id="webaddress">
 <a href="info@felixjosehernandez.es">info@felixjosehernandez.es</a>
 | <a href="https://felixjosehernandez.es">Mi página personal</a>
+| <a href="https://www.linkedin.com/in/fherdom/">Perfil Linkedin</a>
 </div>
 
 ## Actualmente
