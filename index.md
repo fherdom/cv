@@ -31,20 +31,13 @@ __Ingeniería Informática, Universidad de La Laguna.__
 `2017`
 __Full Stack Development, freeCodeCamp__
 
-- Sizar
-
 `2019`
 __Experto en desarrollo GIS, Esri España__
-
-- Fellow
 
 ## Experiencia
 
 `1996-2000`
 __Ingeniero Informático, ONO__, Santa Cruz de Tenerife
-
-- Warden
-- Minted coins
 
 `1999-2009`
 __Profesor de Informática, CECAM CEOE-CEPYME__, Santa Cruz de Tenerife
