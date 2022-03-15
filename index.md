@@ -17,7 +17,7 @@ Analista del departamento de Ingeniería de la empresa pública Cartográfica de
 
 ### Especialista en
 
-Sistemas de información geográfica (GIS) mediante el uso de herramientas libres: *GNU/Linux*, *Python*, *GeoDjango*, *QGIS* y *PostgreSQL-PostGIS* o propietarias: *ArcGIS de ESRI*.
+Sistemas de información geográfica (GIS) y en el uso de herramientas libres: *GNU/Linux*, *Python*, *GeoDjango*, *QGIS* y *PostgreSQL-PostGIS* o propietarias: *ArcGIS de ESRI*.
 
 ### Intereses de investigación
 
