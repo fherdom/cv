@@ -10,7 +10,6 @@ Ingeniero Informático
 | <a href="https://felixjosehernandez.es">Mi página personal</a>
 </div>
 
-
 ## Actualmente
 
 Analista del departamento de Ingeniería de la empresa pública Cartográfica de Canarias S.A. (GRAFCAN)
@@ -21,7 +20,7 @@ Sistemas de información geográfica (GIS) y en el uso de herramientas libres: *
 
 ### Intereses de investigación
 
-CI/CD, TDD, UX/UI y un largo etc.
+__CI/CD, TDD, UX/UI, Android Development__ y un largo etc.
 
 ## Educación
 
