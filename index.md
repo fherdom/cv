@@ -1,91 +1,58 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: CV Félix José Hernández
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Félix José Hernández
+Ingeniero Informático
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="info@felixjosehernandez.es">info@felixjosehernandez.es</a>
+| <a href="https://felixjosehernandez.es">Mi página personal</a>
 </div>
 
 
-## Currently
+## Actualmente
 
-Standing on the shoulders of giants
+Analista del departamento de Ingeniería de la empresa pública Cartográfica de Canarias S.A. (GRAFCAN)
 
-### Specialized in
+### Especialista en
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Sistemas de información geográfica (GIS) mediante el uso de herramientas libres o propietarias.
 
+### Intereses de investigación
 
-### Research interests
+UX/UI, TDD, CI/CD, Microservicios, Contenedores y un largo etc.
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+## Educación
 
+`1992-1998`
+__Ingeniería Informática, Universidad de La Laguna.__
 
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2017`
+__Full Stack Development, freeCodeCamp__
 
 - Sizar
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2019`
+__Experto en desarrollo GIS, Esri España__
 
 - Fellow
 
+## Experiencia
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
+`1996-2000`
+__Ingeniero Informático, ONO__, Santa Cruz de Tenerife
 
 - Warden
 - Minted coins
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`1999-2009`
+__Profesor de Informática, CECAM CEOE-CEPYME__, Santa Cruz de Tenerife
 
+`2001-`
 
+__Ingeniero Informático, Cartográfica de Canarias S.A.__, Santa Cruz de Tenerife
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: March 2022 -->
