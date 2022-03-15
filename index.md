@@ -21,7 +21,7 @@ Sistemas de información geográfica (GIS) mediante el uso de herramientas libre
 
 ### Intereses de investigación
 
-UX/UI, TDD, CI/CD, Microservicios, Contenedores y un largo etc.
+CI/CD, TDD, UX/UI y un largo etc.
 
 ## Educación
 
