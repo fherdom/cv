@@ -13,7 +13,7 @@ Ingeniero Informático
 
 ## Actualmente
 
-Analista del departamento de Ingeniería de la empresa pública Cartográfica de Canarias S.A. (GRAFCAN)
+Consultor tecnoloógico de varias empresas tanto del ámbito privado como público.
 
 ## Especialista en
 
